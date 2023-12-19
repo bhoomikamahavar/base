@@ -1,0 +1,243 @@
+# Copyright (C) 2023 WeddingDir - Budget Calculator
+# This file is distributed under the same license as the WeddingDir - Budget Calculator package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WeddingDir - Budget Calculator 1.1.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/weddingdir-budget-calculator\n"
+"POT-Creation-Date: 2023-09-28 08:42:48+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin-file/meta-box.php:62
+msgid "Couple Budget Tool"
+msgstr ""
+
+#: admin-file/meta-box.php:79 admin-file/meta-box.php:90
+msgid "Budget Amount"
+msgstr ""
+
+#: admin-file/meta-box.php:101
+msgid "Budget List"
+msgstr ""
+
+#: admin-file/meta-box.php:125 couple-file/add-new-budget-form.php:98
+#: couple-file/add-new-budget-form.php:101 couple-file/edit-budget-form.php:98
+#: couple-file/edit-budget-form.php:101
+msgid "Budget Category Name"
+msgstr ""
+
+#: admin-file/meta-box.php:134
+msgid "Budget Category Overview"
+msgstr ""
+
+#: admin-file/meta-box.php:143
+msgid "Budget Category Icon"
+msgstr ""
+
+#: admin-file/meta-box.php:154
+msgid "Budget JSON Data"
+msgstr ""
+
+#: admin-file/meta-box.php:163
+msgid "Budget Unique ID"
+msgstr ""
+
+#: admin-file/setting-option.php:75
+msgid "Budget Calculator"
+msgstr ""
+
+#: admin-file/setting-option.php:86
+msgid "Default Budget Data Insert in Register Couple ?"
+msgstr ""
+
+#: admin-file/setting-option.php:99
+msgid "Default Estimate Budget Amount"
+msgstr ""
+
+#: admin-file/setting-option.php:112
+msgid "Budget Category Data"
+msgstr ""
+
+#: admin-file/setting-option.php:321
+msgid "Reception Rentals"
+msgstr ""
+
+#: admin-file/setting-option.php:382
+msgid "Icon"
+msgstr ""
+
+#: admin-file/setting-option.php:393
+msgid "Budget Data"
+msgstr ""
+
+#: ajax/index.php:221
+msgid "Budget Category Create Successfully!"
+msgstr ""
+
+#: ajax/index.php:236 ajax/index.php:336 ajax/index.php:351 ajax/index.php:492
+#: ajax/index.php:507 ajax/index.php:615 ajax/index.php:631 ajax/index.php:699
+msgid "Security issue found!"
+msgstr ""
+
+#: ajax/index.php:312
+msgid "%1$s Budget Category Removed Successfully!"
+msgstr ""
+
+#: ajax/index.php:441
+msgid "%1$s Budget Category Data Save Successfully!"
+msgstr ""
+
+#: ajax/index.php:591
+msgid "%1$s Budget Category Updated Successfully!"
+msgstr ""
+
+#: ajax/index.php:666
+msgid "Your Estimate Amount Update Successfully!"
+msgstr ""
+
+#: ajax/index.php:682
+msgid "Please Update Proper Estimate Amount!"
+msgstr ""
+
+#: couple-file/add-new-budget-form.php:61
+msgid "Add New category"
+msgstr ""
+
+#: couple-file/add-new-budget-form.php:115
+#: couple-file/add-new-budget-form.php:118 couple-file/edit-budget-form.php:115
+#: couple-file/edit-budget-form.php:118
+msgid "Write Notes"
+msgstr ""
+
+#: couple-file/add-new-budget-form.php:132
+msgid "Select Category Icon"
+msgstr ""
+
+#: couple-file/add-new-budget-form.php:146
+msgid "Add Budget Category"
+msgstr ""
+
+#: couple-file/budget-amount.php:61
+msgid "Edit the Estimated Cost"
+msgstr ""
+
+#: couple-file/budget-amount.php:98 couple-file/budget-amount.php:101
+#: couple-file/index.php:743
+msgid "Estimate Cost"
+msgstr ""
+
+#: couple-file/budget-amount.php:112
+msgid "Save"
+msgstr ""
+
+#: couple-file/edit-budget-form.php:61
+msgid "Edit Category"
+msgstr ""
+
+#: couple-file/edit-budget-form.php:132
+msgid "Edit Category Icon"
+msgstr ""
+
+#: couple-file/edit-budget-form.php:147
+msgid "Edit Budget Category"
+msgstr ""
+
+#: couple-file/index.php:184
+msgid "My Budget"
+msgstr ""
+
+#: couple-file/index.php:196
+msgid "Add Budget category"
+msgstr ""
+
+#: couple-file/index.php:394 couple-file/index.php:749
+msgid "Final Cost"
+msgstr ""
+
+#: couple-file/index.php:423
+msgid "Estimated cost:"
+msgstr ""
+
+#: couple-file/index.php:464
+msgid "Are you sure ? You want to remove %1$s Budget category ?"
+msgstr ""
+
+#: couple-file/index.php:493
+msgid "Add Budget Item"
+msgstr ""
+
+#: couple-file/index.php:499
+msgid "Total Amount"
+msgstr ""
+
+#: couple-file/index.php:631
+msgid "Expenses"
+msgstr ""
+
+#: couple-file/index.php:638 filters-hook/right-widget/index.php:106
+msgid "Estimated cost"
+msgstr ""
+
+#: couple-file/index.php:640
+msgid "Edit Budget"
+msgstr ""
+
+#: couple-file/index.php:644 filters-hook/menu/index.php:81
+#: filters-hook/right-widget/index.php:70
+msgid "Budget"
+msgstr ""
+
+#: couple-file/index.php:661 filters-hook/right-widget/index.php:115
+msgid "Final cost"
+msgstr ""
+
+#: couple-file/index.php:677
+msgid "Paid:"
+msgstr ""
+
+#: couple-file/index.php:689
+msgid "Pending:"
+msgstr ""
+
+#: couple-file/index.php:737
+msgid "Expense"
+msgstr ""
+
+#: couple-file/index.php:755
+msgid "Paid"
+msgstr ""
+
+#: couple-file/index.php:761
+msgid "Action"
+msgstr ""
+
+#: filters-hook/right-widget/index.php:89
+msgid "View Budget"
+msgstr ""
+
+#: filters-hook/right-widget/index.php:144
+msgid "Manage expenses"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "WeddingDir - Budget Calculator"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://weddingdir.net"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Budget Calculator plugin using couple can easy to create number of budget category with number of spend money"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Hitesh Mahavar"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://weddingdir.net/"
+msgstr ""
